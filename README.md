@@ -106,7 +106,7 @@
 | <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/7a2bf19d-55d4-4541-925a-67613285e198" /> | **Пайплайн** | Всё сразу: детекция + распознавание + коррекция + сортировка | `5` | Пакетный пайплайн |
 | | | | |
 | <img width="78" height="79" alt="image" src="https://github.com/user-attachments/assets/695ed79a-2611-4c53-a937-a905913eaabb" /> | **Ѣ** | Переключить на дореформенные веса корректора | — | — |
-| <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/fa96a7d2-f1ee-4437-a9de-9856f34f7574" /> | **Отмена** | Отменить текущую OCR-операцию *(появляется во время обработки)* | — | — |
+| <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/ca73b00f-4cf0-4cbd-b1c4-3a16ca0d3827" /> | **Отмена** | Отменить текущую OCR-операцию *(появляется во время обработки)* | — | — |
 
 > **Совет:** горячие клавиши `1`–`5` работают только когда фокус на холсте. Если вы редактируете текст в поле ввода, клавиши не перехватываются.
 
