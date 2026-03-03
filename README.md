@@ -368,7 +368,7 @@ Anno OCR использует следующие открытые библиот
 | Библиотека | Лицензия | Описание |
 |------------|----------|----------|
 | [PySide6](https://doc.qt.io/qtforpython-6/) | [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.html) | Фреймворк пользовательского интерфейса (Qt для Python) |
-| [manuscript-ocr](https://pypi.org/project/manuscript-ocr/) | [MIT](https://github.com/konstantinkozhin/manuscript-ocr?tab=MIT-1-ov-file) | Модели OCR для рукописных и архивных документов |
+| [manuscript-ocr](https://github.com/konstantinkozhin/manuscript-ocr) | [MIT](https://github.com/konstantinkozhin/manuscript-ocr?tab=MIT-1-ov-file) | Модели OCR для рукописных и архивных документов |
 | [ReportLab](https://www.reportlab.com/) | [BSD](https://docs.reportlab.com/rl_addons/preppy/license/) | Генерация PDF-документов |
 | [Shapely](https://shapely.readthedocs.io/) | [BSD-3-Clause](https://github.com/shapely/shapely/blob/main/LICENSE.txt) | Геометрические операции |
 | [SQLite](https://www.sqlite.org/) | [Public Domain](https://www.sqlite.org/copyright.html) | Встроенная база данных |
