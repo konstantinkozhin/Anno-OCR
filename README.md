@@ -61,8 +61,6 @@
 
 ### Общий вид окна
 
-https://github.com/user-attachments/assets/0ec2c88d-c33d-4ba7-ae32-8a2cc55e8aed
-
 Окно разделено на три зоны:
 
 | Зона | Расположение | Назначение |
