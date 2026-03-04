@@ -228,7 +228,7 @@ https://github.com/user-attachments/assets/9db95e24-7799-485c-ad90-4fe129094233
 
 ### Пакетная обработка
 
-https://github.com/user-attachments/assets/8c4c4e5a-c186-4a70-b817-3f19aa4a6a28
+https://github.com/user-attachments/assets/c36aee97-09d9-4bec-b5b3-abb85aa16ee9
 
 Для обработки множества страниц сразу:
 
