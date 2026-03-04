@@ -228,7 +228,7 @@ https://github.com/user-attachments/assets/9db95e24-7799-485c-ad90-4fe129094233
 
 ### Пакетная обработка
 
-<img width="757" height="637" alt="image" src="https://github.com/user-attachments/assets/5fcdad4f-9f0a-4f25-afdf-bb780274adaf" />
+https://github.com/user-attachments/assets/8c4c4e5a-c186-4a70-b817-3f19aa4a6a28
 
 Для обработки множества страниц сразу:
 
