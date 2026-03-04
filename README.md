@@ -158,7 +158,7 @@ https://github.com/user-attachments/assets/9db95e24-7799-485c-ad90-4fe129094233
 | <img width="233" height="58" alt="image" src="https://github.com/user-attachments/assets/b11f5b70-778b-4282-9993-f7808fd8bff5" /> | **Очистить элементы** | Меню очистки (см. ниже) |
 | <img width="139" height="57" alt="image" src="https://github.com/user-attachments/assets/80468f78-10f7-49a0-964f-995ea2dc7d89" />| **Удалить** | Удалить выбранный элемент (блок / строку / слово) |
 
-**Меню «Очистить»:**
+**Меню «Очистить элементы»:**
 
 | Пункт | Что удаляет |
 |-------|-------------|
