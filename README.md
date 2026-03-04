@@ -61,8 +61,7 @@
 
 ### Общий вид окна
 
-https://github.com/user-attachments/assets/981e70d5-6d7e-456b-adc7-88171f2fa615
-
+https://github.com/user-attachments/assets/0ec2c88d-c33d-4ba7-ae32-8a2cc55e8aed
 
 Окно разделено на три зоны:
 
