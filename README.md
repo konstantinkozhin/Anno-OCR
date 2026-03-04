@@ -48,7 +48,7 @@
 
 ## Установка и запуск
 
-1. Перейдите на страницу [**Releases**](https://github.com/konstantinkozhin/anno-ocr/releases/latest) или [**Яндекс Диск**](https://disk.yandex.ru/d/x9nS11HJQ1VCbA)
+1. Перейдите на страницу [**Releases**](https://github.com/konstantinkozhin/anno-ocr/releases/latest) или [**Яндекс Диск**](https://disk.yandex.ru/d/Hc4lDQJKahEbIg)
 2. Скачайте файл `Anno_OCR.exe`
 3. Запустите — готово!
 
