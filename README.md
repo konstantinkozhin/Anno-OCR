@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/fca74ccc-073f-4c36-b11b-785c9d11cfa6
    Посмотрите основные функции Anno OCR
 
 2. **Подробная инструкция**  
-   Пошаговое руководство в файле [`user_manual.md`]((https://github.com/konstantinkozhin/Anno-OCR/blob/main/user_manual.md).
+   Пошаговое руководство в файле [`user_manual.md`](https://github.com/konstantinkozhin/Anno-OCR/blob/main/user_manual.md).
 
 ---
 
