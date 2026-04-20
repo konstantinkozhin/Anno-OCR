@@ -44,7 +44,7 @@
 ## Инструкция пользователя
 
 
-https://github.com/user-attachments/assets/fca74ccc-073f-4c36-b11b-785c9d11cfa6
+https://github.com/user-attachments/assets/d9915a50-54ab-403a-9321-87b21b36e340
 
 
 1. **Демо-ролик**  
