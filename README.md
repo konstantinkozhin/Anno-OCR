@@ -1,5 +1,6 @@
-<img width="677" height="181" alt="github (3)" src="https://github.com/user-attachments/assets/e79d8c96-5347-437d-9ddb-3941d0827871" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e79d8c96-5347-437d-9ddb-3941d0827871" width="677" />
+</p>
 
 <p align="center">
 Десктопное приложение для автоматического распознавания и аннотирования текстов в рукописных и архивных документах.
